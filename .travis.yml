@@ -11,5 +11,5 @@ before_install:
 
 deploy:
   provider: heroku
-  api_key: 6b59173f-1813-4d6e-8637-967ad18be361
+  api_key: ...
   app: nodejsd
